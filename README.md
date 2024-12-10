@@ -1,6 +1,6 @@
 # ECommerce
 
-##Photo illustrative de mon projet Angular Bootstrap : site e-commerce.
+## Photo illustrative de mon projet Angular Bootstrap : site e-commerce.
 
 ![projet site e-commerce partie panier](https://github.com/user-attachments/assets/def4a36d-3f05-46bf-836b-fc9328ba4262)
 ![projet site e-commerce partie produit](https://github.com/user-attachments/assets/c2015585-37ce-4af8-a021-833f06afb805)
