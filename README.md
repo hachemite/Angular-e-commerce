@@ -1,5 +1,12 @@
 # ECommerce
 
+## Photo illustrative de mon projet Angular Bootstrap : site e-commerce.
+
+![projet site e-commerce partie panier](https://github.com/user-attachments/assets/def4a36d-3f05-46bf-836b-fc9328ba4262)
+![projet site e-commerce partie produit](https://github.com/user-attachments/assets/c2015585-37ce-4af8-a021-833f06afb805)
+![projet e-commerce](https://github.com/user-attachments/assets/16b29554-3ad6-4aca-b57c-2d11da072d00)
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
 ## Development server
