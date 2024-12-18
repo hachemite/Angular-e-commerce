@@ -1,0 +1,5 @@
+.active {
+    color: #000;
+    border-bottom: 2px solid #fff;
+    transition: border-bottom 0.3s ease;
+}

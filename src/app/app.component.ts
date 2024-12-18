@@ -1,4 +1,9 @@
 import { Component } from '@angular/core';
+import { Routes } from '@angular/router';
+import { HeaderComponent } from './composants/header/header.component';
+import { ProduitComponent } from './produit/produit.component';
+import { PanierComponent } from './panier/panier.component';
+
 
 @Component({
   selector: 'app-root',
@@ -8,4 +13,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'e-commerce';
+
+
 }

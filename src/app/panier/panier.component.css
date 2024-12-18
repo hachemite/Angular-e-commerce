@@ -1,0 +1,14 @@
+.light-green {
+    background-color: #28a745;
+    color: #fff;
+  }
+
+
+
+.light-green:hover {
+      background-color: #32cd52;
+      color: #fff;
+      box-shadow: 0 0 4px #28a745, 0 0 8px #28a745, 0 0 12px #28a745;
+      transition: all 0.3s ease;
+      transform: scale(1.05);
+}
