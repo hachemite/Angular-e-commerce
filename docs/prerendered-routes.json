@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/Angular-e-commerce": {},
+    "/Angular-e-commerce/home": {},
+    "/Angular-e-commerce/panier": {},
+    "/Angular-e-commerce/produit": {}
+  }
+}
